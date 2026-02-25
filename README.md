@@ -113,7 +113,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esierradev&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esierradev&theme=radical&locale=es" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esierradev&layout=compact&langs_count=8&theme=radical">
 </div>
 
 <br />
