@@ -64,6 +64,7 @@
   [![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
   [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
   [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)
+  [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
   
 </div>
 
